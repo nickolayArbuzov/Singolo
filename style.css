@@ -172,7 +172,9 @@ body{
 }
 
 #customDesignIco{
-    
+    position: absolute;
+    top: 936px;
+    left: 41px;
 }
 
 #customDesignTitle{
@@ -184,7 +186,9 @@ body{
 }
 
 #responsiveLayoutIco{
-    
+    position: absolute;
+    top: 1059px;
+    left: 41px;
 }
 
 #responsiveLayoutTitle{
@@ -196,7 +200,9 @@ body{
 }
 
 #inovativeIdeasIco{
-    
+    position: absolute;
+    top: 936px;
+    left: 360px;
 }
 
 #inovativeIdeasTitle{
@@ -208,7 +214,9 @@ body{
 }
 
 #supportIco{
-    
+    position: absolute;
+    top: 1059px;
+    left: 360px;
 }
 
 #supportTitle{
@@ -220,7 +228,9 @@ body{
 }
 
 #loveIsTheAnswerIco{
-    
+    position: absolute;
+    top: 936px;
+    left: 680px;
 }
 
 #loveIsTheAnswerTitle{
@@ -232,7 +242,9 @@ body{
 }
 
 #feelLikeAStarIco{
-    
+    position: absolute;
+    top: 1059px;
+    left: 680px;
 }
 
 #feelLikeAStarTitle{

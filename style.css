@@ -116,14 +116,29 @@ body{
 
 #vertPhone{
     background-image: url(../singolo/assets/img/Base.png);
+    position: absolute;
+    top: 291px;
+    left: -9px;
+    z-index: 100;
+    transform: rotate(270deg);
 }
 
 #vertShadow{
     background-image: url(../singolo/assets/img/Shadow.png);
+    position: absolute;
+    top: 396px;
+    left: 41px;
+    z-index: 10;
+    transform: rotate(270deg);
 }
 
 #vertPic{
     background-image: url(../singolo/assets/img/Layer\ 5.png);
+    position: absolute;
+    top: 396px;
+    left: 41px;
+    z-index: 0;
+    transform: rotate(270deg);
 }
 
 #horizPhone{

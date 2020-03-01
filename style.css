@@ -98,12 +98,20 @@ body{
 }
 
 #leftArrow{
-    background-image: url(../singolo/assets/img/chev.png);
+    width: 17px;
+    height: 28px;
+    position: absolute;
+    top: 396px;
+    left: 41px;
 }
 
-#rightArrow{
-    background-image: url(../singolo/assets/img/chev.png);
-    rotate: 180;
+#rightArrow {
+    width: 17px;
+    height: 28px;
+    position: absolute;
+    top: 396px;
+    left: 963px;
+    transform: rotate(180deg);
 }
 
 #vertPhone{

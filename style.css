@@ -1,12 +1,90 @@
 body{
     margin: 0 auto;
     width: 1020px;
+    font-family: 'Lato';
 }
 
 #header{
     background-color: #2d303a;
     height: 90px;
     color: white;
+}
+
+#h1{
+    position:absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#home{
+    position:absolute;
+    top: 62px;
+    left: 608px;
+    font-size:11.8px;
+}
+
+#hDot{
+    position:absolute;
+    top: 70px;
+    left: 659px;
+    width: 2px;
+    height: 2px;
+    background-color: #414657;
+}
+
+#services{
+    position:absolute;
+    top: 62px;
+    left: 675px;
+    font-size:11.8px;
+}
+
+#sDot{
+    position:absolute;
+    top: 70px;
+    left: 743px;
+    width: 2px;
+    height: 2px;
+    background-color: #414657;
+}
+
+#portfolio{
+    position:absolute;
+    top: 62px;
+    left: 758px;
+    font-size:11.8px;
+}
+
+#pDot{
+    position:absolute;
+    top: 70px;
+    left: 838px;
+    width: 2px;
+    height: 2px;
+    background-color: #414657;
+}
+
+#about{
+    position:absolute;
+    top: 62px;
+    left: 854px;
+    font-size:11.8px;
+}
+
+#aDot{
+    position:absolute;
+    top: 70px;
+    left: 909px;
+    width: 2px;
+    height: 2px;
+    background-color: #414657;
+}
+
+#contact{
+    position:absolute;
+    top: 62px;
+    left: 925px;
+    font-size:11.8px;
 }
 
 #lineUnderHeader{
